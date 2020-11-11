@@ -124,7 +124,7 @@ ro.build.host=abfarm-01345
 ro.build.tags=release-keys
 ro.build.flavor=redfin-user
 # ro.build.product is obsolete; use ro.product.device
-ro.build.product=sunfish
+ro.build.product=redfin
 # Do not try to parse description or thumbprint
 ro.build.description=redfin-user 11 RD1A.201105.003.A1 6886512 release-keys
 # end build properties
