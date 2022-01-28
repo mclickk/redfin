@@ -14,8 +14,8 @@
 # begin common build properties
 ro.product.product.brand=google
 ro.product.product.device=redfin
-ro.product.product.manufacturer=Google
-ro.product.product.model=Pixel 5
+ro.product.product.manufacturer=google
+ro.product.product.model=Pixel XL
 ro.product.product.name=redfin
 ro.product.build.date=Thu Dec  2 00:15:10 UTC 2021
 ro.product.build.date.utc=1638404110
@@ -53,8 +53,8 @@ ro.com.google.ime.system_lm_dir=/product/usr/share/ime/google/d3_lms
 # begin common build properties
 ro.product.vendor.brand=google
 ro.product.vendor.device=redfin
-ro.product.vendor.manufacturer=Google
-ro.product.vendor.model=Pixel 5
+ro.product.vendor.manufacturer=google
+ro.product.vendor.model=Pixel XL
 ro.product.vendor.name=redfin
 ro.vendor.build.date=Thu Dec  2 00:15:10 UTC 2021
 ro.vendor.build.date.utc=1638404110
@@ -104,8 +104,8 @@ ro.boot.vendor.overlay.theme=com.android.internal.systemui.navbar.gestural;com.g
 # begin common build properties
 ro.product.odm.brand=google
 ro.product.odm.device=redfin
-ro.product.odm.manufacturer=Google
-ro.product.odm.model=Pixel 5
+ro.product.odm.manufacturer=google
+ro.product.odm.model=Pixel XL
 ro.product.odm.name=redfin
 ro.odm.build.date=Thu Dec  2 00:15:10 UTC 2021
 ro.odm.build.date.utc=1638404110
@@ -134,7 +134,7 @@ ro.odm.build.version.sdk=31
 # begin common build properties
 ro.product.system.brand=google
 ro.product.system.device=generic
-ro.product.system.manufacturer=Google
+ro.product.system.manufacturer=google
 ro.product.system.model=mainline
 ro.product.system.name=mainline
 ro.system.build.date=Thu Dec  2 00:15:10 UTC 2021
@@ -174,8 +174,8 @@ ro.build.description=redfin-user 12 SQ1A.220105.002 7961164 release-keys
 ro.build.fingerprint=google/redfin/redfin:12/SQ1A.220105.002/7961164:user/release-keys
 ro.product.brand=google
 ro.product.device=redfin
-ro.product.manufacturer=Google
-ro.product.model=Pixel 5
+ro.product.manufacturer=google
+ro.product.model=Pixel XL
 ro.product.name=redfin
 # end extra's from /system/build.prop
 
